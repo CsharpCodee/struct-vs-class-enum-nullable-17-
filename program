@@ -1,4 +1,11 @@
-//1
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Pr17
+{//1
     struct Color
     {
         public int R;
@@ -115,3 +122,4 @@
             Console.WriteLine(emp);
         }
     }
+}
